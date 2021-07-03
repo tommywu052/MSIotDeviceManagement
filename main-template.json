@@ -261,7 +261,7 @@
             "solutionType": "[parameters('solutionType')]"
         },
         "suffix": "[substring(uniqueString(resourceGroup().id), 0, 5)]",
-        "baseUrl": "https://raw.githubusercontent.com/ooha-m/MSIotDeviceManagement/master/",
+        "baseUrl": "https://raw.githubusercontent.com/tommywu052/MSIotDeviceManagement/master/",
         "EastUS2": "CentralUS",
         "CentralUS": "EastUS2",
         "WestUS2": "West Central US",
